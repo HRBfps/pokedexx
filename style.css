@@ -48,6 +48,7 @@ section div {
     height: 25vh;
     text-align: center;
     font-size: 80px;
+    margin-top: 15vh;
 }
 section div input {
     padding: 20px;
@@ -63,6 +64,18 @@ aside {
     height: 80vh;
     width: 40vw;
     border: black 4px solid;
+    font-size: 30px;
+}
+img {
+    display: block;
+    margin: 0px auto;
+}
+#infos {
+    margin: 0px auto;
+    height: 50vh;
+    width: 30vw;
+    text-align: center;
+    overflow: scroll;
 }
 footer {
     font-family: 'Anton', sans-serif;
